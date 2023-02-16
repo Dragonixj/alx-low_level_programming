@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 /**
  * main -Entry point
  * Return: (0) a sucess
@@ -12,7 +10,6 @@ int main(void)
 	long int y;
 	char z;
 	float f;
-	double d;
 	long long int l;
 
 	printf("Size of an int:%lu  byte(s)\n", sizeof(x));
