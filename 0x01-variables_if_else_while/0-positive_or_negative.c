@@ -3,9 +3,8 @@
 #include <stdio.h>
 
 /**
- * main -Entry point
- *	prints data according to nature of generated random number
- * return: 0 a sucess
+ *main - Prints data according to nature of generated random number
+ *Return: (0) a sucess
  */
 
 int main(void)
