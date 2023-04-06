@@ -1,6 +1,6 @@
 # More-singly linked lists
 
-##ALXSE
+## ALXSE
 
 lists.h - this file contains all the function prototypes and all the data structure for listint_t
 
