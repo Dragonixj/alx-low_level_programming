@@ -8,5 +8,5 @@
     read(): reads data from a file descriptor into a buffer
     write(): writes data from a buffer to a file descriptor
     close(): closes a file descriptor
-https://en.wikipedia.org/wiki/File_descriptor
+
 There are many other system calls that work with file descriptors, but these are the most basic ones. You can find more information about file descriptors and system calls at <a href="https://en.wikipedia.org/wiki/File_descriptor">C - descriptors page</a>
