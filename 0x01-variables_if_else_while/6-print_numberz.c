@@ -5,14 +5,12 @@
  * followed by a new line, using putchar
  * Return: (0) Success
  */
-int main(void)
-{ 20.04, with vim, emacs, curl,
-	int n;
+int main(void) {
+  int n;
 
-	for (n = 48; n < 58; n++)
-	{
-		putchar(n);
-	}
-	putchar('\n');
-	return (0);
+  for (n = 48; n < 58; n++) {
+    putchar(n);
+  }
+  putchar('\n');
+  return (0);
 }
