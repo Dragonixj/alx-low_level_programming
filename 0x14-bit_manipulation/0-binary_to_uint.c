@@ -4,7 +4,7 @@
  * binary_to_uint - converts a binary to an unsigned int.
  * @b: pointing to a string of 0 or 1 char
  *
- * Return: returns the converted number or 0
+ * Return: the converted number or 0
  */
 unsigned int binary_to_uint(const char *b)
 {
