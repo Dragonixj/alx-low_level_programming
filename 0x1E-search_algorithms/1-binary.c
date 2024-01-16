@@ -7,8 +7,8 @@
  *
  * Return: Index where value is locat, or -1 if not present or if array is NULL
  */
-
 int binary_search(int *array, size_t size, int value) {
+
     size_t i, low, high;
 
     if (array == NULL) {
